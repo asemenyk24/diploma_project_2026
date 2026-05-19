@@ -53,3 +53,7 @@
 
 ### ЭТАП 8. Защита  (05.06.2026)
 * **Безудержное веселье!**
+
+### Ссылки на датасет
+* **Яндекс-диск:**  https://disk.360.yandex.ru/d/dtymy0atbaFhYQ
+* **Google-диск:**  https://drive.google.com/file/d/10ix5iIyzdhG1rstHcS29zpZpDqmzzk-u/view?usp=drive_link
